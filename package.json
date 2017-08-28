@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/adriennekarnoski/07-nodejs-npm-express#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.4"
   }
 }
